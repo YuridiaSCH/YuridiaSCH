@@ -1,16 +1,25 @@
-### Hi there 👋
+# AcercaDe
 
-<!--
-**YuridiaSCH/YuridiaSCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![image](https://user-images.githubusercontent.com/124212145/217955506-c240685b-1fcb-412a-9cae-4c4442debf0e.png)
 
-Here are some ideas to get you started:
+### Hola Compañeros, un gusto en saludarnos 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Me presento, soy la estudiante 🍄 ✨ Yuridia Cortes ✨
+
+Cursando la carrera de Ing. Sistemas Computaciones el en el Instituto Tecnologico de Tijuana 🤟
+
+Estudiane en las escuelas:
+- Mi Patria es Primero 💛
+- Jesus eyes Heroles 😅
+- CECyTE Zona Rio 🙃
+- Actualmente ITT ❤
+
+Me gusta muchisimo:
+- Hamsteres 🐀
+- Hacer manualidades 🌷
+- Dibujar ✍
+- Escribir 🌈
+- Cerditos 🐽
+
+### Hasta la proxima! 🍄
