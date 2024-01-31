@@ -18,8 +18,11 @@ Estudiane en las escuelas:
 Me gusta muchisimo:
 - Hamsteres 🐀
 - Hacer manualidades 🌷
+- Crochet 🧶
 - Dibujar ✍
 - Escribir 🌈
 - Cerditos 🐽
 
 ### Hasta la proxima! 🍄
+
+# YA ANDAMOS EN EL SEMESTRE 9, AJUA VAMOS CON TODO! 0 MIEDO AL PURO MILLON 😎
